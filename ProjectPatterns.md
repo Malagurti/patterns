@@ -2,8 +2,6 @@
   <h1 align="center">Factory</h1>
 
 
-
-
 ## Table of contents
 
 - [General Information](#general-information)
